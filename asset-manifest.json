@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "'/netgear/static/css/main.8c3b5c52.chunk.css",
-    "main.js": "'/netgear/static/js/main.c8fce793.chunk.js",
-    "runtime-main.js": "'/netgear/static/js/runtime-main.62a68916.js",
-    "static/css/2.90579cf4.chunk.css": "'/netgear/static/css/2.90579cf4.chunk.css",
-    "static/js/2.e8a91567.chunk.js": "'/netgear/static/js/2.e8a91567.chunk.js",
-    "index.html": "'/netgear/index.html",
-    "precache-manifest.4798fa3eaff97499a603e82f68ab87fd.js": "'/netgear/precache-manifest.4798fa3eaff97499a603e82f68ab87fd.js",
-    "service-worker.js": "'/netgear/service-worker.js",
-    "static/js/2.e8a91567.chunk.js.LICENSE.txt": "'/netgear/static/js/2.e8a91567.chunk.js.LICENSE.txt",
-    "static/media/angle-up.60d89147.svg": "'/netgear/static/media/angle-up.60d89147.svg",
-    "static/media/errorboundary.svg": "'/netgear/static/media/errorboundary.f0a0e582.svg",
-    "static/media/main.sass": "'/netgear/static/media/iconetgear.94895ab8.woff",
-    "static/media/index.css": "'/netgear/static/media/roboto-latin-900italic.ebf6d164.woff2",
-    "static/media/switch_logo.5a8fa2f6.svg": "'/netgear/static/media/switch_logo.5a8fa2f6.svg",
-    "static/media/switch_logo_login.svg": "'/netgear/static/media/switch_logo_login.3908d63e.svg"
+    "main.css": "/netgear/static/css/main.76d58cc3.chunk.css",
+    "main.js": "/netgear/static/js/main.c8fce793.chunk.js",
+    "runtime-main.js": "/netgear/static/js/runtime-main.a1113d52.js",
+    "static/css/2.f0589e8e.chunk.css": "/netgear/static/css/2.f0589e8e.chunk.css",
+    "static/js/2.e8a91567.chunk.js": "/netgear/static/js/2.e8a91567.chunk.js",
+    "index.html": "/netgear/index.html",
+    "precache-manifest.4a1ab549eae2adeed38aa75da511e6ba.js": "/netgear/precache-manifest.4a1ab549eae2adeed38aa75da511e6ba.js",
+    "service-worker.js": "/netgear/service-worker.js",
+    "static/js/2.e8a91567.chunk.js.LICENSE.txt": "/netgear/static/js/2.e8a91567.chunk.js.LICENSE.txt",
+    "static/media/angle-up.60d89147.svg": "/netgear/static/media/angle-up.60d89147.svg",
+    "static/media/errorboundary.svg": "/netgear/static/media/errorboundary.f0a0e582.svg",
+    "static/media/main.sass": "/netgear/static/media/iconetgear.94895ab8.woff",
+    "static/media/index.css": "/netgear/static/media/roboto-latin-900italic.ebf6d164.woff2",
+    "static/media/switch_logo.5a8fa2f6.svg": "/netgear/static/media/switch_logo.5a8fa2f6.svg",
+    "static/media/switch_logo_login.svg": "/netgear/static/media/switch_logo_login.3908d63e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.62a68916.js",
-    "static/css/2.90579cf4.chunk.css",
+    "static/js/runtime-main.a1113d52.js",
+    "static/css/2.f0589e8e.chunk.css",
     "static/js/2.e8a91567.chunk.js",
-    "static/css/main.8c3b5c52.chunk.css",
+    "static/css/main.76d58cc3.chunk.css",
     "static/js/main.c8fce793.chunk.js"
   ]
 }
