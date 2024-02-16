@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/netgear/static/css/main.5dec8941.chunk.css",
-    "main.js": "/netgear/static/js/main.2bcdcffc.chunk.js",
+    "main.css": "/netgear/static/css/main.d9e9bf66.chunk.css",
+    "main.js": "/netgear/static/js/main.748f7350.chunk.js",
     "runtime-main.js": "/netgear/static/js/runtime-main.a1113d52.js",
     "static/css/2.f0589e8e.chunk.css": "/netgear/static/css/2.f0589e8e.chunk.css",
-    "static/js/2.e8a91567.chunk.js": "/netgear/static/js/2.e8a91567.chunk.js",
+    "static/js/2.c2a944c3.chunk.js": "/netgear/static/js/2.c2a944c3.chunk.js",
     "index.html": "/netgear/index.html",
-    "precache-manifest.12ea35f1b8adac44d71207413358940d.js": "/netgear/precache-manifest.12ea35f1b8adac44d71207413358940d.js",
+    "precache-manifest.dbcbeaf352038fc21f50c62bb196af85.js": "/netgear/precache-manifest.dbcbeaf352038fc21f50c62bb196af85.js",
     "service-worker.js": "/netgear/service-worker.js",
-    "static/js/2.e8a91567.chunk.js.LICENSE.txt": "/netgear/static/js/2.e8a91567.chunk.js.LICENSE.txt",
+    "static/js/2.c2a944c3.chunk.js.LICENSE.txt": "/netgear/static/js/2.c2a944c3.chunk.js.LICENSE.txt",
     "static/media/angle-up.60d89147.svg": "/netgear/static/media/angle-up.60d89147.svg",
     "static/media/errorboundary.svg": "/netgear/static/media/errorboundary.f0a0e582.svg",
     "static/media/main.sass": "/netgear/static/media/iconetgear.94895ab8.woff",
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.a1113d52.js",
     "static/css/2.f0589e8e.chunk.css",
-    "static/js/2.e8a91567.chunk.js",
-    "static/css/main.5dec8941.chunk.css",
-    "static/js/main.2bcdcffc.chunk.js"
+    "static/js/2.c2a944c3.chunk.js",
+    "static/css/main.d9e9bf66.chunk.css",
+    "static/js/main.748f7350.chunk.js"
   ]
 }
