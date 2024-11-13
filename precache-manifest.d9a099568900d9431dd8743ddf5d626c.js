@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a10869f1372fb55e122aeb212fe53ee2",
+    "revision": "ccc066448ccfca380cabab57ff2d74dc",
     "url": "/netgear/index.html"
   },
   {
-    "revision": "a27d959d8f85592f8325",
+    "revision": "87e5d748c34baf886994",
     "url": "/netgear/static/css/2.f0589e8e.chunk.css"
   },
   {
-    "revision": "337ce38bb6ae202db0db",
-    "url": "/netgear/static/css/main.d9e9bf66.chunk.css"
+    "revision": "70d3fa2a5ec7818bc308",
+    "url": "/netgear/static/css/main.54aa51a0.chunk.css"
   },
   {
-    "revision": "a27d959d8f85592f8325",
-    "url": "/netgear/static/js/2.31eb1492.chunk.js"
+    "revision": "87e5d748c34baf886994",
+    "url": "/netgear/static/js/2.d43d3684.chunk.js"
   },
   {
-    "revision": "ee06d740c1a3de9bae2af303199775c9",
-    "url": "/netgear/static/js/2.31eb1492.chunk.js.LICENSE.txt"
+    "revision": "73eb72ce0a76c0a8e2877539803a6c34",
+    "url": "/netgear/static/js/2.d43d3684.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "337ce38bb6ae202db0db",
-    "url": "/netgear/static/js/main.33c56e54.chunk.js"
+    "revision": "70d3fa2a5ec7818bc308",
+    "url": "/netgear/static/js/main.cb979114.chunk.js"
+  },
+  {
+    "revision": "8de6526fc7e4529f7c27bb66e5d967d5",
+    "url": "/netgear/static/js/main.cb979114.chunk.js.LICENSE.txt"
   },
   {
     "revision": "4ceb16638d6f6cc0a1bd",
@@ -32,12 +36,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netgear/static/media/angle-up.60d89147.svg"
   },
   {
+    "revision": "aaa79cbaed71ef3a57dfed160a5700ba",
+    "url": "/netgear/static/media/arrow_down.aaa79cba.png"
+  },
+  {
+    "revision": "3acfaa8d4cd943b6c19a186b8e874c2f",
+    "url": "/netgear/static/media/calendar_date_day.3acfaa8d.png"
+  },
+  {
+    "revision": "195fe50504cafeac7fc42670b54806d8",
+    "url": "/netgear/static/media/calendar_date_hover.195fe505.png"
+  },
+  {
+    "revision": "a0dfc34be8872c2444a8002cbb626339",
+    "url": "/netgear/static/media/calendar_date_select.a0dfc34b.png"
+  },
+  {
+    "revision": "ad9515509cb48fdc56bb2099922512ea",
+    "url": "/netgear/static/media/calendar_date_today.ad951550.png"
+  },
+  {
+    "revision": "43b30eacc1efbdeadefa3b8ee43c10b9",
+    "url": "/netgear/static/media/datepickerHeaderBg.43b30eac.png"
+  },
+  {
     "revision": "f0a0e582ccb2b4ee5c8163c61e16358a",
     "url": "/netgear/static/media/errorboundary.f0a0e582.svg"
   },
   {
     "revision": "94895ab83f220ae92544ac26d9fd9352",
     "url": "/netgear/static/media/iconetgear.94895ab8.woff"
+  },
+  {
+    "revision": "1a2f7bb61f3fb66a32c4dcae35a1685b",
+    "url": "/netgear/static/media/netgear.1a2f7bb6.png"
   },
   {
     "revision": "5cb7edfceb233100075dc9a1e12e8da3",
@@ -142,5 +174,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3908d63ebbc74ae268763cccdd0c04f9",
     "url": "/netgear/static/media/switch_logo_login.3908d63e.svg"
+  },
+  {
+    "revision": "e2a15f35b562f2ef652e544c226ca3b3",
+    "url": "/netgear/static/media/ui_icons.e2a15f35.png"
   }
 ]);

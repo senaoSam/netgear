@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/netgear/static/css/main.d9e9bf66.chunk.css",
-    "main.js": "/netgear/static/js/main.33c56e54.chunk.js",
+    "main.css": "/netgear/static/css/main.54aa51a0.chunk.css",
+    "main.js": "/netgear/static/js/main.cb979114.chunk.js",
     "runtime-main.js": "/netgear/static/js/runtime-main.a1113d52.js",
     "static/css/2.f0589e8e.chunk.css": "/netgear/static/css/2.f0589e8e.chunk.css",
-    "static/js/2.31eb1492.chunk.js": "/netgear/static/js/2.31eb1492.chunk.js",
+    "static/js/2.d43d3684.chunk.js": "/netgear/static/js/2.d43d3684.chunk.js",
     "index.html": "/netgear/index.html",
-    "precache-manifest.e27150e4a19d4daa1a822f1f928368d2.js": "/netgear/precache-manifest.e27150e4a19d4daa1a822f1f928368d2.js",
+    "precache-manifest.d9a099568900d9431dd8743ddf5d626c.js": "/netgear/precache-manifest.d9a099568900d9431dd8743ddf5d626c.js",
     "service-worker.js": "/netgear/service-worker.js",
-    "static/js/2.31eb1492.chunk.js.LICENSE.txt": "/netgear/static/js/2.31eb1492.chunk.js.LICENSE.txt",
+    "static/js/2.d43d3684.chunk.js.LICENSE.txt": "/netgear/static/js/2.d43d3684.chunk.js.LICENSE.txt",
+    "static/js/main.cb979114.chunk.js.LICENSE.txt": "/netgear/static/js/main.cb979114.chunk.js.LICENSE.txt",
     "static/media/angle-up.60d89147.svg": "/netgear/static/media/angle-up.60d89147.svg",
+    "static/media/main.sass": "/netgear/static/media/ui_icons.e2a15f35.png",
     "static/media/errorboundary.svg": "/netgear/static/media/errorboundary.f0a0e582.svg",
-    "static/media/main.sass": "/netgear/static/media/iconetgear.94895ab8.woff",
+    "static/media/netgear.png": "/netgear/static/media/netgear.1a2f7bb6.png",
     "static/media/index.css": "/netgear/static/media/roboto-latin-900italic.ebf6d164.woff2",
     "static/media/switch_logo.5a8fa2f6.svg": "/netgear/static/media/switch_logo.5a8fa2f6.svg",
     "static/media/switch_logo_login.svg": "/netgear/static/media/switch_logo_login.3908d63e.svg"
@@ -19,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.a1113d52.js",
     "static/css/2.f0589e8e.chunk.css",
-    "static/js/2.31eb1492.chunk.js",
-    "static/css/main.d9e9bf66.chunk.css",
-    "static/js/main.33c56e54.chunk.js"
+    "static/js/2.d43d3684.chunk.js",
+    "static/css/main.54aa51a0.chunk.css",
+    "static/js/main.cb979114.chunk.js"
   ]
 }
